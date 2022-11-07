@@ -5,7 +5,7 @@ function setup() {
   
   function draw() {
     background(200,100,100);
-    Image(img,0,0);
+    image(img,0,0);
    
 
   }
